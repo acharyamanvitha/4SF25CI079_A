@@ -1,0 +1,5 @@
+Python is a popular programming language.
+It is simple easy to learn and widely used.
+Python can be used for web development data analysis
+machine learning automation and many other applications.
+Pandas is a useful Python library for handling data.
